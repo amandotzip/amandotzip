@@ -1,4 +1,4 @@
-<h1 align = "center"> That's <em>the</em> Hacker to you 🦹🏿‍♂️ </h1>
+<h1 > That's <em>the</em> Hacker to you 🦹🏿‍♂️ </h1>
 
 
 
