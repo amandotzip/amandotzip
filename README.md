@@ -1,23 +1,23 @@
-<h1 > That's <em>the</em> Hacker to you 🦹🏿‍♂️ </h1>
+<h1 align = "center"> That's <em>the</em> Hacker to you 🦹🏿‍♂️ </h1>
 
 
 
+<p align="center">
 
+  <a href="https://www.linkedin.com/in/amanuelawoke">
+  <img src="https://blog-assets.hootsuite.com/wp-content/uploads/2025/05/linkedin-for-business-9-620x151.png" width = "300">
+  </a>
 
-<a href="https://www.linkedin.com/in/amanuelawoke">
-<img src="https://blog-assets.hootsuite.com/wp-content/uploads/2025/05/linkedin-for-business-9-620x151.png" width = "300">
-</a>
+  <br />
 
-<br />
+  <a href="https://devpost.com/amandotzip?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+  <img src="https://imgur.com/ASh3glw.jpg" width = "300">
+  </a>
 
-<a href="https://devpost.com/amandotzip?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
-<img src="https://imgur.com/ASh3glw.jpg" width = "300">
-</a>
+  <br />
 
-<br />
-
-<img src="https://media.giphy.com/media/8wzDNe9unxCuY/giphy.gif" width = "300">
-
+  <img src="https://media.giphy.com/media/8wzDNe9unxCuY/giphy.gif" width = "300">
+</p>
 
 
 <!--
