@@ -1,19 +1,18 @@
 <h1 align = "center"> That's <em>the</em> Hacker to you 🦹🏿‍♂️ </h1>
 
 <p align="center">
-  <br />
 
 
 
 
 <a href="https://www.linkedin.com/in/amanuelawoke">
-<img src="https://blog-assets.hootsuite.com/wp-content/uploads/2025/05/linkedin-for-business-9-620x151.png" width = "400">
+<img src="https://blog-assets.hootsuite.com/wp-content/uploads/2025/05/linkedin-for-business-9-620x151.png" width = "200">
 </a>
 
 <br />
 
 <a href="https://devpost.com/amandotzip?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
-<img src="https://imgur.com/ASh3glw.jpg" width = "400">
+<img src="https://imgur.com/ASh3glw.jpg" width = "200">
 </a>
 
 <br />
