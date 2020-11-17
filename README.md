@@ -1,6 +1,5 @@
 <h1 align = "center"> That's <em>the</em> Hacker to you 🦹🏿‍♂️ </h1>
 
-<p align="center">
 
 
 
@@ -19,7 +18,6 @@
 
 <img src="https://media.giphy.com/media/8wzDNe9unxCuY/giphy.gif" width = "300">
 
-</p>
 
 
 <!--
