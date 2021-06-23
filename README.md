@@ -11,7 +11,7 @@
   <br />
 
   <a href="https://devpost.com/amandotzip?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
-  <img src="https://imgur.com/f728zFN" width = "300">
+  <img src="https://i.imgur.com/f728zFN.png" width = "300">
   </a>
 
   <br />
